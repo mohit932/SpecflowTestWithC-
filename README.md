@@ -12,4 +12,15 @@ Download Selenium WebDriver Language Binding for C# and extract them to appropri
 Installing Selenium Dependencies And Tutorial Repo
 Step 1: Clone the repository and navigate to the code directory as shown below:
 
-git clone https://github.com/LambdaTest/SpecFlow-Selenium-Sample
+git clone from master branch https://github.com/mohit932/SpecflowTestWithC-.git
+
+Executing Your First Test
+Step 1: Build the solution by clicking in Build > Build Solution.
+Step 2: As shown below click on Test Explorer on your MS Visual Studio:
+![image](https://user-images.githubusercontent.com/92543085/193022093-5f4f9aad-54f1-46e5-a423-0dce93a1470b.png)
+Step 3: Click on Run from the Test Explorer to run the sample test as shown below:
+
+
+
+
+
