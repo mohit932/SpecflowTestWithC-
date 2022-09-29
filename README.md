@@ -18,7 +18,11 @@ Executing Your First Test
 Step 1: Build the solution by clicking in Build > Build Solution.
 Step 2: As shown below click on Test Explorer on your MS Visual Studio:
 ![image](https://user-images.githubusercontent.com/92543085/193022093-5f4f9aad-54f1-46e5-a423-0dce93a1470b.png)
+
 Step 3: Click on Run from the Test Explorer to run the sample test as shown below:
+Step:4 Result should display all test case as passed
+![IMG-20220929-WA0004](https://user-images.githubusercontent.com/92543085/193026784-ce8d5926-16af-4c31-81e0-0ec806a43702.jpg)
+
 
 
 
